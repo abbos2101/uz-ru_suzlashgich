@@ -1,6 +1,6 @@
 package abbos.uzeu.activity.main
 
-import abbos.uzeu.activity.info.InfoActivity
+import abbos.uzeu.activity.second.activity.InfoActivity
 import abbos.uzeu.activity.second.activity.FavActivity
 import abbos.uzeu.activity.second.activity.PhraseActivity
 import abbos.uzeu.activity.second.activity.SearchActivity

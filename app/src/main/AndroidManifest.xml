@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_engrus"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.info.InfoActivity"></activity>
+        <activity android:name=".activity.second.activity.InfoActivity"></activity>
         <activity android:name=".activity.second.activity.SearchActivity" />
         <activity android:name=".activity.second.activity.FavActivity" />
         <activity android:name=".tmp.TmpActivity" />

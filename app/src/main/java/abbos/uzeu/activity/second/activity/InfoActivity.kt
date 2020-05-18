@@ -1,4 +1,4 @@
-package abbos.uzeu.activity.info
+package abbos.uzeu.activity.second.activity
 
 import abbos.uzeu.R
 import abbos.uzeu.activity.second.SecondApp
